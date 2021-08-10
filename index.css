@@ -1,0 +1,10 @@
+.loginButton {
+  text-align: center;
+  border-radius: 4px;
+  background-color: #04AA6D;
+  color: white;
+  cursor: pointer;
+  width: 80px;
+  margin: 50%;
+  margin-top: 10px;
+}
